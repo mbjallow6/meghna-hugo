@@ -1,11 +1,11 @@
 ---
-title: "How To Setup Meghna Hugo"
-date: 2018-09-12T14:51:12+06:00
-author: Mark Dinn
-image: images/blog/meghna.jpg
-description : "This is meta description"
----
+title: STEM Education for all
+date: 2019-12-11T16:00:12+00:00
+author: MB Jallow
+image: "/images/stem wall paper.png"
+description: STEM education
 
+---
 ## Install this template by following those simple steps:
 
 ### STEP-1 : Hugo installation
